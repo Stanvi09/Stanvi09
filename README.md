@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/Stanvi09/KuberKet"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-kuberket-dark.svg"><img alt="KuberKet: talks a farmer through a loan in Hindi or English" src="assets/card-kuberket-light.svg" width="49%"></picture></a>
-  <a href="https://github.com/Stanvi09/NammaPrayana"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-nammaflow-dark.svg"><img alt="NammaFlow: metro delay and coach-crowd prediction" src="assets/card-nammaflow-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/Stanvi09/NammaPrayana"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-nammaprayana-dark.svg"><img alt="NammaPrayana: Green Line delays, the emptiest coach and when to leave" src="assets/card-nammaprayana-light.svg" width="49%"></picture></a>
 </p>
 <p align="center">
   <a href="https://github.com/Stanvi09/ColdSync-1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-coldsync-dark.svg"><img alt="ColdSync: live cold-chain monitoring" src="assets/card-coldsync-light.svg" width="49%"></picture></a>
@@ -37,7 +37,7 @@
 | | Principle | Where you can see it |
 |:-:|---|---|
 | **01** | **Numbers come from code you can test, not from a model's guess.** | In KuberKet, every rupee is computed by a finance engine with 228 tests. The voice AI never does maths. |
-| **02** | **Say what the system can't do.** | NammaFlow's README lists its own limits: simulated coaches, "probable" causes, no live BMRCL claims. |
+| **02** | **Say what the system can't do.** | NammaPrayana's README lists its own limits: simulator-only results, "likely" causes, no live BMRCL claims. |
 | **03** | **Design for the worst connection, not the demo Wi-Fi.** | CropSense keeps giving advice from on-device sensor data when the disease model is unreachable. |
 | **04** | **Understand the layer underneath.** | Placement Advisor has no framework: just sockets, a hand-written HTTP parser and a router, in C. |
 | **05** | **The details are the product.** | One set of design tokens in ColdSync, one stylesheet across 35 pages in SkinKind, and tests that stop English leaking into KuberKet's Hindi screens. |
@@ -60,7 +60,7 @@
 ### Right now
 
 - Preparing for **software engineering internships**: full-stack, IoT and applied ML
-- Building a **live 3D simulator** of Bengaluru's Green Line for NammaFlow
+- Building a **live 3D simulator** of Bengaluru's Green Line for NammaPrayana
 - Next for KuberKet: **Marathi, Tamil, Telugu and Bengali**
 
 <br>
